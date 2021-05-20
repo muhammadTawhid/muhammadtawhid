@@ -1,17 +1,17 @@
 # Muhammad-Tawhid
 
 <h1 align="center">H! 👋, </br>From Tawhid</h1>
-<h3 align="center">A Javascript Expertise From Bangladesh</h3>
+<h3 align="center">A Javascript and MERN Stack Expertise From Bangladesh</h3>
 
 
 
 - 🌱 I’m currently learning **ReactJs**
 
-- 👨‍💻 All of my projects are available at [comming soon](comming soon)
+- 👨Personal Portfolio https://muhammad-tawhid.web.app/
 
-- 💬 Ask me about **ReactJs**
+- 💬 Ask me about **JavaScript**
 
-- 📫 How to reach me **muhammadtawhid.me@gmail.com**
+- 📫 Fell free to inbox me **muhammadtawhid.me@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/16_zH6yVohPvDNOwHeneW2w-gf9keLbrh/view?usp=sharing](https://drive.google.com/file/d/16_zH6yVohPvDNOwHeneW2w-gf9keLbrh/view?usp=sharing)
 
