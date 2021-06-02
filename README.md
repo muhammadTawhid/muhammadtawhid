@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **JavaScript**
 
-- 📫 Fell free to inbox me **muhammadtawhid.me@gmail.com**
+- 📫 Feel free to inbox me **muhammadtawhid.me@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/16_zH6yVohPvDNOwHeneW2w-gf9keLbrh/view?usp=sharing](https://drive.google.com/file/d/16_zH6yVohPvDNOwHeneW2w-gf9keLbrh/view?usp=sharing)
 
