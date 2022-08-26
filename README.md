@@ -53,17 +53,14 @@
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB)
 ![Express.js](https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=000000&labelColor=ffffff)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=flat&logo=mongodb&labelColor=ffffff)
-![Material-UI](https://img.shields.io/badge/-Material%20UI-000000?style=flat&logo=Material%20UI&logoColor=ffffff&labelColor=0081CB)
+![MUI](https://img.shields.io/badge/Metarial%20UI-000000?style=flat&logo=Mui&logoColor=#007fff) 
 
 **Familiar:** 
 ![Redux](https://img.shields.io/badge/-Redux-000000?style=flat&logo=redux&logoColor=764ABC&labelColor=ffffff)
-<!-- ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white)  -->
 ![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=flat&logo=typescript&logoColor=#3178c6) 
 ![Sass](https://img.shields.io/badge/-SASS-000000?style=flat&logo=sass&logoColor=ffffff&labelColor=%23CC6699)
 ![React Native](https://img.shields.io/badge/-React%20Native-000000?style=flat&logo=react&labelColor=000000)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-000000?style=flat&logo=tailwind-css&logoColor=#38bdf8)
-<!-- ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white&labelColor=ffffff) -->
-<!-- ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&labelColor=000000) -->
 ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white) 
 
 **Tools:**
