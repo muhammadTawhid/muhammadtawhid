@@ -50,10 +50,12 @@
 ### **Familiar:** 
 ![Redux](https://img.shields.io/badge/-Redux-000000?style=flat&logo=redux&logoColor=764ABC&labelColor=ffffff)
 ![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=flat&logo=typescript&logoColor=#3178c6) 
-![Sass](https://img.shields.io/badge/-SASS-000000?style=flat&logo=sass&logoColor=ffffff&labelColor=%23CC6699)
 ![React Native](https://img.shields.io/badge/-React%20Native-000000?style=flat&logo=react&labelColor=000000)
+![Sass](https://img.shields.io/badge/-SASS-000000?style=flat&logo=sass&logoColor=ffffff&labelColor=%23CC6699)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-000000?style=flat&logo=tailwind-css&logoColor=#38bdf8)
+![Styled Component](https://img.shields.io/badge/Styled_Component-000000?style=flat&logo=styledcomponents&logoColor=#D04A37)
 ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white) 
+![Expo](https://img.shields.io/badge/expo-000000?style=flat&logo=expo&logoColor=#D04A37)
 ![Adobe Photoshop](https://img.shields.io/badge/adobePhotoShop-000000?style=flat&logo=adobephotoshop&logoColor=white&labelColor=%2331A8FF) 
 ![Canva](https://img.shields.io/badge/Canva-000000.svg?style=flat&logo=Canva&logoColor=white&labelColor=08b9cf)
 
