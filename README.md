@@ -3,10 +3,10 @@
 ## About me
 I like to think of myself as a diligent person who can work through problems and other obstacles until they are resolved. I'm also passionate about staying up to date on the newest tools and technologies in order to pursue a challenging career in a competitive world, where my determination, honesty, hard work, and passion will help me to grow.
 
-## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Follow-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/muhammadtawhid.me) 
 [![LinkedIn](https://img.shields.io/badge/Connect-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammad-tawhid) 
 
+## Skills:
 ### Expertise: ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
 ![React](https://img.shields.io/badge/-React-000000?style=flat&logo=react)
