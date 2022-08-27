@@ -1,4 +1,10 @@
 ![App Screenshot](https://i.ibb.co/0y1zHKd/A-Dynamic-Web-Developer-2.png)
+![App Screenshot](https://raw.githubusercontent.com/muhammadTawhid/Tawhid.me/main/src/Images/A%20Dynamic%20Web%20Developer(3).png?token=GHSAT0AAAAAABXWDD4MJ7INUZDGKEWB4CGMYYKBSLQ)
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/muhammadTawhid/Tawhid.me/main/src/Images/A%20Dynamic%20Web%20Developer(3).png?token=GHSAT0AAAAAABXWDD4MJ7INUZDGKEWB4CGMYYKBSLQ" alt="SohelIslamImran" />
+</p>
+
 
 ## About me
 I like to think of myself as a diligent person who can work through problems and other obstacles until they are resolved. I'm also passionate about staying up to date on the newest tools and technologies in order to pursue a challenging career in a competitive world, where my determination, honesty, hard work, and passion will help me to grow.
@@ -7,7 +13,7 @@ I like to think of myself as a diligent person who can work through problems and
 [![LinkedIn](https://img.shields.io/badge/Connect-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammad-tawhid) 
 
 ## Skills:
-### Expertise: ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
+### Expertise: 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
 ![React](https://img.shields.io/badge/-React-000000?style=flat&logo=react)
 ![React Router](https://img.shields.io/badge/React_Router-000000?style=flat&logo=react-router&logoColor=white&labelColor=CA4245)
