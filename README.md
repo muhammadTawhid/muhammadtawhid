@@ -1,14 +1,4 @@
-![App Screenshot](https://i.ibb.co/0y1zHKd/A-Dynamic-Web-Developer-2.png)
-![App Screenshot](https://raw.githubusercontent.com/muhammadTawhid/Tawhid.me/main/src/Images/A%20Dynamic%20Web%20Developer(3).png?token=GHSAT0AAAAAABXWDD4MJ7INUZDGKEWB4CGMYYKBSLQ)
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/muhammadTawhid/Tawhid.me/main/src/Images/A%20Dynamic%20Web%20Developer(3).png?token=GHSAT0AAAAAABXWDD4MJ7INUZDGKEWB4CGMYYKBSLQ" alt="Muhammad Tawhid" />
-</p>
-
-
-<p align="center">
-<img src="https://i.ibb.co/0y1zHKd/A-Dynamic-Web-Developer-2.png" alt="" />
-</p>
+![Muhammadt Tawhid](https://github.com/muhammadTawhid/portfolio-cover/blob/main/cover.png?raw=true)
 
 ## About me
 I like to think of myself as a diligent person who can work through problems and other obstacles until they are resolved. I'm also passionate about staying up to date on the newest tools and technologies in order to pursue a challenging career in a competitive world, where my determination, honesty, hard work, and passion will help me to grow.
@@ -60,6 +50,7 @@ I like to think of myself as a diligent person who can work through problems and
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=muhammadTawhid&theme=react&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=muhammadTawhid&theme=react&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadTawhid&theme=react&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadTawhid&theme=react&hide_border=true&include_all_commits=true&count_private=true&card_width=495)
 
+<!-- ![](https://github-readme-streak-stats.herokuapp.com/?user=muhammadTawhid&theme=react&hide_border=true)<br/> -->
+<!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadTawhid&theme=react&hide_border=true&include_all_commits=true&count_private=true&layout=compact) -->
