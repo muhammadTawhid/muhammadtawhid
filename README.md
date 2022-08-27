@@ -1,3 +1,4 @@
+![App Screenshot](https://i.ibb.co/0y1zHKd/A-Dynamic-Web-Developer-2.png)
 ![App Screenshot](https://raw.githubusercontent.com/muhammadTawhid/Tawhid.me/main/src/Images/A%20Dynamic%20Web%20Developer(3).png?token=GHSAT0AAAAAABXWDD4MJ7INUZDGKEWB4CGMYYKBSLQ)
 
 <p align="center">
@@ -6,7 +7,7 @@
 
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=SohelIslamImran&label=Profile%20views&color=0e75b6&style=flat" alt="SohelIslamImran" />
+<img src="https://i.ibb.co/0y1zHKd/A-Dynamic-Web-Developer-2.png" alt="" />
 </p>
 
 ## About me
