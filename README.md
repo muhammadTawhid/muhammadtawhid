@@ -1,10 +1,8 @@
-![App Screenshot](https://i.ibb.co/0y1zHKd/A-Dynamic-Web-Developer-2.png)
-![App Screenshot](https://raw.githubusercontent.com/muhammadTawhid/Tawhid.me/main/src/Images/A%20Dynamic%20Web%20Developer(3).png?token=GHSAT0AAAAAABXWDD4MJ7INUZDGKEWB4CGMYYKBSLQ)
+<!-- ![App Screenshot](https://raw.githubusercontent.com/muhammadTawhid/Tawhid.me/main/src/Images/A%20Dynamic%20Web%20Developer(3).png?token=GHSAT0AAAAAABXWDD4MJ7INUZDGKEWB4CGMYYKBSLQ) -->
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/muhammadTawhid/Tawhid.me/main/src/Images/A%20Dynamic%20Web%20Developer(3).png?token=GHSAT0AAAAAABXWDD4MJ7INUZDGKEWB4CGMYYKBSLQ" alt="SohelIslamImran" />
+<img src="https://raw.githubusercontent.com/muhammadTawhid/Tawhid.me/main/src/Images/A%20Dynamic%20Web%20Developer(3).png?token=GHSAT0AAAAAABXWDD4MJ7INUZDGKEWB4CGMYYKBSLQ" alt="Muhammad Tawhid" />
 </p>
-
 
 ## About me
 I like to think of myself as a diligent person who can work through problems and other obstacles until they are resolved. I'm also passionate about staying up to date on the newest tools and technologies in order to pursue a challenging career in a competitive world, where my determination, honesty, hard work, and passion will help me to grow.
